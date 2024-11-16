@@ -15,11 +15,11 @@ Os serviços funcionam com computação, rede e armazenamento. Dentro disso temo
 -> Fornece maior flexibilidade. As organizações controlam a segurança a conformidade e os requisitos.
 -> As organizações definem onde executar os aplicativos.
 
-## CapEX
+## Despesas de Capital (CapEX)
 -> Possui gasto inicial de dinheiro em infraestrutura física.
 -> As despesas tem o valor que reduz com o tempo.
 
-## OpEX
+## Despesas Operacionais (OpEX)
 -> Gasto com produtos e serviços conforme necessário. Pagamento conforme o uso.
 -> Recebe cobrança imediatamente.
 
