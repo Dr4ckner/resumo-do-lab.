@@ -79,3 +79,32 @@ Porcentagem entregue pela empresa em relação a qualidade. A microsoft tem algu
 O que garante tempos de indisponibilidade de 3,65 dias por ano até 5,26 minutos por ano.
 
 Quando a máquina é gerada pela pessoa / empresa a microsoft não tem nenhuma responsabilidade.
+
+## IaaS, PaaS e SaaS
+
+IaaS - Infraestrutura como serviço
+
+Tendem a ser a área que você como cliente tem mais acesso as informações gerais e também a linha final.
+Plataforma conforme o uso alugando servidores, máquinas virtuais, armazenamento, redes e sistemas operacionais de um provedor de nuvem.
+
+PaaS - Plataforma como serviço
+
+Tem tudo que o IaaS possui, mas com alguns acréscimos. Como sistemas operacionais e ferramentas para desenvolvedores, análise de negócios de gerenciamento de database. Fornece um ambiente para a criação, o teste e a implantação de aplicativos de software.
+
+SaaS - Software como serviço
+
+Conta com Aplicativos/apps hospedados. Temos um exemplo do Microsoft365 que é um grupo de aplicativos que nos disponibiliza softwares e aplicações que já existem e estão prontos. O que muda são as licenças.
+
+## Modelo de responsabilidade compartilhada
+
+Servidor físico -> Responsabilidade completamente do cliente
+
+IaaS -> Hosts físicos, rede física e datacenter físico pela microsoft, todo o resto pelo cliente.
+
+PaaS -> Todos os de cima + Sistema operacional pela conta da Microsoft. O resto é "meio a meio", Controles de rede, aplicativos e infraestrutura de identidade e diretório.
+
+SaaS -> Por outro lado os serviços que antes eram meio a meio ficam por conta da Microsoft, como Controles de rede e aplicativos. Menos Infraestrutura de identidade e diretório. Que fica com a responsabilidade ainda dividida. Informações e dados, dispositivos e contas e identidades ficam por conta do cliente em todas as nuvens.
+
+Quanto mais gestão por parte da Microsoft mais caro o serviço irá ser.
+
+IaaS é mais flexível. Paas é focado em desenvolvimento de aplicativos. SaaS é modelo de preço de pagamento conforme uso. Você paga por software, que utilizam em modelo de assinatura.
